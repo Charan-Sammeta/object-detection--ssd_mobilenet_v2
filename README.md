@@ -24,12 +24,15 @@ To set up the project environment, I have uploaded a guide file checkit out.
 
 ## Results
 The final object detection system is capable of detecting objects with the following accuracy:
+
 Classification Loss: 1.0459441
+
 Localization Loss: 0.48785937
 
-![Detection Result](D:\git\object-detection--ssd_mobilenet_v2\imageData1.png "Detection Result")
-![Detection Result](D:\git\object-detection--ssd_mobilenet_v2\imageData2.png "Detection Result")
-![Detection Result](D:\git\object-detection--ssd_mobilenet_v2\imageData3.png "Detection Result")
+
+![Detection Result](object-detection--ssd_mobilenet_v2/imageData1.png "Detection Result")
+![Detection Result](object-detection--ssd_mobilenet_v2/imageData2.png "Detection Result")
+![Detection Result](object-detection--ssd_mobilenet_v2/imageData3.png "Detection Result")
 
 
 ## References 
