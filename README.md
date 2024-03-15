@@ -25,6 +25,9 @@ To set up the project environment, I have uploaded a guide file checkit out.
 ## Results
 The final object detection system is capable of detecting objects with the following accuracy:
 
+![Total loss](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/loss.png "Total_loss")
+
+
 Classification Loss: 1.0459441
 
 Localization Loss: 0.48785937
