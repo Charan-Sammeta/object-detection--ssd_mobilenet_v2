@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'crazing'
+}
+item {
+  id: 2
+  name: 'inclusion'
+}
+item {
+  id: 3
+  name: 'patches'
+}
+item {
+  id: 4
+  name: 'pitted_surface'
+}
+item {
+  id: 5
+  name: 'rolled-in_scale'
+}
+item {
+  id: 6
+  name: 'scratches'
+}
