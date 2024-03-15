@@ -30,13 +30,14 @@ Classification Loss: 1.0459441
 Localization Loss: 0.48785937
 
 
-![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData1.png "Detection Result-1")
-![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData2.png "Detection Result-2")
-![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData3.png "Detection Result-3")
+![Detection Resul-1](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData1.png "Detection Result-1")
+![Detection Result-2](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData2.png "Detection Result-2")
+![Detection Result-3](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData3.png "Detection Result-3")
 
 
 ## References 
 [1] SSD Paper: https://arxiv.org/abs/1512.02325
+
 [2] TensorFlow Object Detection API: https://github.com/tensorflow/models/tree/master/research/object_detection
 
 ## future development 
