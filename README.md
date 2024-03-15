@@ -30,9 +30,9 @@ Classification Loss: 1.0459441
 Localization Loss: 0.48785937
 
 
-![Detection Result](object-detection--ssd_mobilenet_v2/imageData1.png "Detection Result")
-![Detection Result](object-detection--ssd_mobilenet_v2/imageData2.png "Detection Result")
-![Detection Result](object-detection--ssd_mobilenet_v2/imageData3.png "Detection Result")
+![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData1.png "Detection Result-1")
+![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData2.png "Detection Result-2")
+![Detection Result](https://github.com/Charan-Sammeta/object-detection--ssd_mobilenet_v2/blob/main/imageData3.png "Detection Result-3")
 
 
 ## References 
